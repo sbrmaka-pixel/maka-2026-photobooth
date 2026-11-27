@@ -1,0 +1,9 @@
+{
+  "name": "MAKA 2026 Digital Photobooth",
+  "short_name": "MAKA Photobooth",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f8f0fb",
+  "theme_color": "#4b1f6f",
+  "icons": []
+}
